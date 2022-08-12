@@ -40,7 +40,7 @@ export default function Home() {
            <div className='MainSubtitle'>
            <p className='mainSubtitle1'>GRAPHIC DESIGN</p>
             <div className='starImg'>
-            <Image src={Star}/>
+            <Image src={Star} alt="Star"/>
             </div>
             <p className='mainSubtitle2'>LOGO DESIGN</p>
             </div> 

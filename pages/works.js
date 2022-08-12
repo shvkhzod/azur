@@ -35,7 +35,7 @@ import Link from "next/link";
         </WorksWrapper>
         <Footer>
         <div className='whiteLogo'>
-      <Image src={WhiteLogo}/>
+      <Image src={WhiteLogo} alt="White Logo"/>
     </div>
     <div className='firstRow'>
     <Link href="https://www.instagram.com/azamat_tsch/" passHref={true} >
