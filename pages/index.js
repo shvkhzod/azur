@@ -4,7 +4,7 @@ import Navigation from "../components/Navigation"
 import Image from "next/image"
 import { BodyWrap } from "../styles/bodyStyle"
 import Star from "../src/img/Star.png"
-import ProfilePic from "../src/img/ProfilePic.png"
+import ProfilePic from "../src/img/profilePic.png"
 import WorkPreview from '../components/WorkPreview'
 import { Footer } from '../styles/Footer'
 import WhiteLogo from "../src/img/whiteLogo.png"
