@@ -15,7 +15,7 @@ import Hamburger from "../src/img/hambruger.svg"
         <NavWrapper>
 
         <div className="logo">
-            <Image src={AzurLogo}/>
+            <Image src={AzurLogo} alt="Logo"/>
         </div>
 
         <div className={isOpen ? "openNav" : "navRoutes"}>

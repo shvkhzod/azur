@@ -61,7 +61,7 @@ export default function Home() {
           </div>
 
           <div className='ProfileImg'>
-            <Image src={ProfilePic}/>
+            <Image src={ProfilePic} alt="Azamat"/>
           </div>
           
           </div>
@@ -174,7 +174,7 @@ export default function Home() {
 
     <Footer>
     <div className='whiteLogo'>
-      <Image src={WhiteLogo}/>
+      <Image src={WhiteLogo} alt="Logo White"/>
     </div>
     <div className='firstRow'>
     <Link href="https://www.instagram.com/azamat_tsch/" passHref={true} >

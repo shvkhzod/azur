@@ -24,7 +24,7 @@ import Link from "next/link";
            
            <div className="picContainer">
                <div className="aboutMePic">
-                   <Image src={Me}/>
+                   <Image src={Me} alt="Azamat"/>
                </div>
            </div>
            <div className="infoAboutMe">

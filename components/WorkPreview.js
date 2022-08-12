@@ -22,7 +22,7 @@ function WorkPreview(props) {
        <PreviewWrapper style={{flexDirection: props.reverse == "yes" ? "row-reverse" : "row"}}>
        <div className="imgContainer">
        <div className="thumbnail">
-            <Image src={theImg} layout="fill" objectFit="cover"/>
+            <Image src={theImg} layout="fill" objectFit="cover" alt="Work Preview"/>
         </div>
        </div>
 
