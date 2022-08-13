@@ -846,59 +846,58 @@ export const BodyWrap = styled.div`
 
     
     .blackBelt {
-        overflow: hidden;
-        margin-top: 80px;
-        left: -10px;
-        position: absolute;
-        width: 200%;
-        height: 8vh;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        background-color: black;
-        padding: 10px 20px ;
-        rotate: -5deg;
-
-        
-
-        .blackItems1 {
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            animation: ${moveText} 40s linear infinite;
-            animation-delay: -16s;
-            gap: 40px;
-            h1 {
-                width: max-content;
-                color:white;
-            }
-        }
-        .blackItems2 {
-            padding-left: 140px;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            animation: ${moveText2} 40s linear infinite;
-            animation-delay: 4s;
-            gap: 40px;
-            h1 {
-                width: max-content;
-               
-        
-            }
-        }
-
+     overflow: hidden;   
+     position: relative;
+     margin-top: 80px;
+     left: -120px;
+     width: 200%;
+     height: 25%;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     background-color: black;
+     padding: 10px 20px ;
+     rotate: -5deg;
 
      
 
-       
-       
+     .blackItems1 {
+         width: 100%;
+         display: flex;
+         justify-content: space-between;
+         animation: ${moveText} 40s linear infinite;
+         animation-delay: -16s;
+         gap: 40px;
+         h1 {
+             width: max-content;
+             color:white;
+         }
+     }
+     .blackItems2 {
+         padding-left: 140px;
+         width: 100%;
+         display: flex;
+         justify-content: space-between;
+         animation: ${moveText2} 40s linear infinite;
+         animation-delay: 4s;
+         gap: 40px;
+         h1 {
+             width: max-content;
+            
+     
+         }
+     }
 
 
-    }
+  
 
+    
+    
+
+
+ }
     .generalInfo {
-        margin-top: 420px;
+        margin-top: 220px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
