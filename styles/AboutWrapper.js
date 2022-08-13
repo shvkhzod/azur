@@ -275,7 +275,7 @@ export const AboutWrapper = styled.div`
 
     //desktop
     @media only screen and (min-width: 1000px) {
-        padding: 20px 100px;
+        padding: 20px 160px;
 
         .aboutContent {
             padding: 0px 120px;
@@ -292,7 +292,7 @@ export const AboutWrapper = styled.div`
             display: flex;
             justify-content: center;
             .aboutMePic {
-                width: 1000px;
+                width: 1100px;
             }
         }
 
