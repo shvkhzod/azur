@@ -30,7 +30,8 @@ export const Footer = styled.div`
         height: auto;
         padding: 40px 60px;
         background-color: black;
-        flex-direction: column;
+        flex-direction: row;
+        gap: 140px;
         justify-content: center;
         align-items: center;
       
@@ -41,6 +42,10 @@ export const Footer = styled.div`
         p {
             font-size: 32px;
             text-align: center;
+            :hover {
+                color: #E94D35;
+            }
+
         }
         
     }
@@ -52,6 +57,7 @@ export const Footer = styled.div`
         padding: 40px 100px;
         background-color: black;
         display: flex;
+        flex-direction: row;
         justify-content: space-between;
 
         .whiteLogo {
