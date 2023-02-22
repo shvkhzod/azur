@@ -33,9 +33,10 @@ import Hamburger from "../src/img/hambruger.svg"
         <div className={ isOpen ? "openHam" : "hamburger"} onClick={()=> setOpen(!isOpen)}>
             <Image src={Hamburger} alt="HamBurger Icon"/>
         </div>
-      <Link href="https://t.me/inkographic" passHref={true}>
-      <button className="talkBtn">Let's Talk</button>
-        </Link> 
+        <button className="talkBtn"
+       onClick={() => {
+        window.location.href = "mailto:xattot1993@mail.ru?subject=Work Inquiry";
+      }}>Let's Talk</button>
     </NavWrapper>
     )
  }

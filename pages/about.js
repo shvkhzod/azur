@@ -28,10 +28,16 @@ import Link from "next/link";
                </div>
            </div>
            <div className="infoAboutMe">
-               <p>Since my childhood I have always had passion in Art. The beauty of creating something out of nowhere always amazed me and that obessession lead me to explore
-                   this area even deeper by acquiring a degree related to Arts. Having solid knoweldge from University and experience from freelance(even volunteering projects), I began my 
-                   professional career as a Graphic Designer, mainly focused on Typography and Logo Design. Since the start of my career, I was able to work with dozens of brands and companies. Right now I am in Uzbekistan, available for Freelance Projects remotely, so if
-                   you need any services related to Graphic Design, I will be happy to work with you  </p>
+               <p>Azamat Teshaboev was born in Andijan (which is located 350 km east of Tashkent, capital city of Uzbekistan). After graduating from school, he studied Arabic language in Cairo, Egypt, then returned to Uzbekistan. Later, he traveled to Istanbul, Turkey to continue his education. He studied for 5 years at the Faculty of Environmental Engineering of Kastamonu University, which is located near the Black Sea coast of Turkey. During his studies, he established close relations with different faculty members, including the Dean of the Faculty, Ph.D. Savaş Çevik, who played a big role in gaining valuable academic knowledge. In general, Kastamonu city served as a big “life” school for him during his student years, and he had a wonderful experience, both scientific and aesthetic, while trying different disciplines. 
+                  He improved his knowledge in the field of art and graphic design from teachers who are the masters of their fields. Islam Mamatov laid the foundation stones in learning traditional Arabic calligraphy art. He studied graphic design from Laziz Hamidov at Tasnif cgi school. 
+                  He is proud to be a caring husband and a father of one daughter. Currently, he works as a freelancer in the field of Logo branding and he is also the founder of the "Azur" brand. 
+                  Exhibitions and Events 
+                  Behance Portfolio Reviews Istanbul (2016) 
+                  Participant 
+                  Istanbul, Turkey 
+                  Calligrapher '17, Calligraphy & Typography Event (2017) 
+                  Exhibition observer 
+                  Küçükçekmece Municipality, Istanbul, Turkey </p>
            </div>
 
            <div className="callBtns">

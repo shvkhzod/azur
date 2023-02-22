@@ -46,10 +46,12 @@ export default function Home() {
             </div> 
 
             <div className='actionBtns'>
-              <button className='projectBtn'>
-              <Link href="https://t.me/inkographic" passHref={true}>
+              <button  onClick={() => {
+        window.location.href = "mailto:xattot1993@mail.ru?subject=Work Inquiry";
+      }} className='projectBtn'> Got a project?
+              {/* <Link href="https://t.me/inkographic" passHref={true}>
                Got a project?
-               </Link>
+               </Link> */}
               </button>
               <button className='worksBtn'>
                <Link href="/works">
