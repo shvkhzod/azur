@@ -165,9 +165,9 @@ export default function Home() {
             <div className='serviceHeadline'><h1>Services</h1></div>   
             <div className='servicesContainer'>
               <Service headline="Graphic Design" sub="Let's make stunning visuals that tell the core story of your brand"/>
-              <Service headline="Logo Design" sub="We can make your brand to stand out from others by its unique logo"/>
-              <Service headline="SMM Design" sub="Upgrade your marketing and disrupt the digital world by dominating the social medias"/>
-              <Service headline="Branding" sub="To differentiate in the market, we can help you to create appereance for your brand"/>
+              <Service headline="Logo Branding" sub="We can make your brand to stand out from others by its unique logo"/>
+              <Service headline="Visual Design" sub="Upgrade your marketing and disrupt the digital world with me"/>
+              <Service headline="Packaging" sub="I can help you to show your product's value to everyone in the market "/>
             </div>
 
   
